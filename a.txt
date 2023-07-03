@@ -1,3 +1,5 @@
 teste A
 Novo aterado
 algumas linhas foram modificadas
+Novo aterado...
+esta linha modificada agora
