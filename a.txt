@@ -1,2 +1,3 @@
 teste A
-Novo aterado...
+Novo aterado
+algumas linhas foram modificadas
